@@ -1,0 +1,158 @@
+body {
+	background-color: #CBD3DF;
+}
+
+.navbar-brand{
+	font-family: 'Montserrat';
+	font-weight: 500;
+	font-size: 28px;
+	color:#f5f5f5;
+}
+
+.welcoming-section {
+	margin-left: 200px;
+}
+
+.btn-cta-item img {
+	margin-left: 200px;
+}
+
+.btn-cta-code {
+	margin-left: 510px;
+}
+
+.nav-item{
+	font-family: 'Montserrat';
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 27px;
+}
+
+.nav-item .nav-link.active{
+	font-weight: 600;
+	color: #F5f5f5 !important ;
+}
+
+.img-bawah {
+	position: absolute;
+}
+
+.nav-link{
+	color: #f5f5f5 !important ;
+}
+
+.nav-link:hover{
+	color: blue !important ;
+}
+
+.navbar.navbar-expand-lg.navbar-light {
+	color: white !important;
+	background: #6F98D6 !important;
+	}
+
+
+/* Categories */
+.categories-thumbnail {
+	width: 100%;
+	height: 462px;
+}
+
+.categories-img {
+	width: 100%;
+	height: 100%;
+}
+
+/* Popular Products */
+.popular-products{
+	padding-top: 98px;
+	background: rgba(23, 25, 56, 0.06);
+}
+
+.component-products{
+	margin-bottom: 133;
+	transition: all 0.2s ease-in-out;
+}
+
+.component-products:hover{
+	transform: scale(1.1);
+}
+
+.products-img{
+	transition: all 0.3s ease ;
+}
+
+/* Tutup Popular Products */
+
+
+
+/* Fotter */
+.fotter{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: rgba(0, 0, 0, 0.25);
+}
+
+.fotter h2{
+	font-family: 'Poppins';
+	font-weight: 500;
+	font-size: 36px;
+	text-transform: uppercase;
+
+	color: #000000;
+
+}
+.fotter h5{
+	font-family: 'Poppins';
+	font-weight: 500px;
+	font-size: 18px;
+	
+
+	color: black;
+
+}
+
+.fotter p{
+	font-family: 'Poppins';
+	font-weight: 300px;
+	font-size: 16px;
+	
+
+	color: black;
+
+}
+
+.fotter-small{
+	background-color: #766E6E;
+	text-align: center;
+}
+
+.fotter-small p{
+	font-family: 'Poppins';
+	font-weight: 500;
+	font-size: 16px;
+	
+	margin-top: 30px;
+
+	color: #FFFFFF;
+
+}
+
+.fotter-small a{
+	font-weight: 500;
+	font-size: 16px;
+	text-decoration: none;
+
+	color: #FCBB3A;
+}
+/* Tutup Fotter */
+
+
+
+
+
+
+
+
+
+
+
